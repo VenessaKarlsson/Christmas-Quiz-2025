@@ -104,161 +104,169 @@ export const questions = [
   },
 
   {
-    id: 13,
+    id: 14,
     text: 'Vilken hundras är Keyla? ',
-    image: '/3.jpg',
+    image: '/13.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Gul'
   },
 
   {
-    id: 14,
-    text: 'Nämen hundens namn och Ras Bild på mig och King ',
-    image: '/3.jpg',
+    id: 15,
+    text: 'Nämen hundens namn och ras ',
+    image: '/14.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
 
   {
-    id: 15,
-    text: 'Dessa två syskon var födda på nittio-talet. Bild på mig och Dennis när vi var små Nämn 3 saker som var stora på 90-talet ',
-    image: '/3.jpg',
+    id: 16,
+    text: 'Dessa två syskon var födda på 90-talet. Nämn 3 saker som var stora på 90-talet ',
+    image: '/15.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
 
   {
-    id: 16,
+    id: 17,
     text: 'Sorrors betyder något på persiska? Vad är det?',
-    image: '/3.jpg',
+    image: '/16.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
   },
 
   {
-    id: 17,
-    text: 'Nicklas favoritfärg är blå. Deborahs favoritfärg är rosa. Om man blandar ihop Blå och rosa, vilken färg blir det?',
-    image: '/3.jpg',
-    options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Grön'
-  },
-
-  {
     id: 18,
-    text: 'Nämn alla filmer dessa karaktärer kommer ifrån Woody, Mofasa, Ash Cathem och Lilo',
-    image: '/3.jpg',
+    text: 'Nicklas favoritfärg är blå. Deborahs favoritfärg är rosa. Om man blandar ihop Blå och rosa, vilken färg blir det?',
+    image: '/17.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
 
   {
     id: 19,
-    text: 'Nämn Debbie favoriträtt på Chop Chop',
-    image: '/3.jpg',
+    text: 'Nämn alla filmer dessa karaktärer kommer ifrån Woody, Mofasa, Ash Ketchum och Lilo',
+    image: '/18.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Röd'
+    correctAnswer: 'Grön'
   },
 
   {
     id: 20,
-    text: 'Vart är vi?',
-    image: '/3.jpg',
+    text: 'Nämn Debbie favoriträtt på ChopChop',
+    image: '/19.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Blå'
+    correctAnswer: 'Röd'
   },
 
   {
     id: 21,
     text: 'Vart är vi?',
-    image: '/3.jpg',
+    image: '/20.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Gul'
+    correctAnswer: 'Blå'
   },
 
   {
     id: 22,
-    text: 'Vart är vi?',
-    image: '/3.jpg',
-    options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Grön'
-  },
-
-  {
-    id: 23,
-    text: 'Vart är vi?',
-    image: '/3.jpg',
-    options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Röd'
-  },
-
-  {
-    id: 24,
-    text: 'Vart är vi påväg?',
-    image: '/3.jpg',
-    options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Blå'
-  },
-
-  {
-    id: 25,
-    text: 'Vart är Sorror?',
-    image: '/3.jpg',
+    text: 'Vart är Debbie?',
+    image: '/21.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Gul'
   },
 
   {
-    id: 26,
-    text: 'Vart är vi?',
-    image: '/3.jpg',
+    id: 23,
+    text: 'Vart är Soroor?',
+    image: '/22.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
 
   {
-    id: 27,
-    text: 'Vilken restaurangen är Debbie på?',
-    image: '/3.jpg',
+    id: 24,
+    text: 'Vilken resturang äter Debbie på?',
+    image: '/23.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
 
   {
-    id: 28,
-    text: 'Vart är vi?',
-    image: '/3.jpg',
+    id: 25,
+    text: 'Vart är vi på väg?',
+    image: '/24.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
+  },
+
+  {
+    id: 26,
+    text: 'Vart är är vi?',
+    image: '/25.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Gul'
+  },
+
+  {
+    id: 27,
+    text: 'Vart är vi?',
+    image: '/26.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Grön'
+  },
+
+  {
+    id: 28,
+    text: 'Vart gungar Sorror?',
+    image: '/27.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Röd'
   },
 
   {
     id: 29,
     text: 'Vart är vi?',
-    image: '/3.jpg',
+    image: '/28.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
-    correctAnswer: 'Gul'
+    correctAnswer: 'Blå'
   },
 
   {
     id: 30,
     text: 'Vart är vi?',
-    image: '/3.jpg',
+    image: '/29.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Gul'
+  },
+
+  {
+    id: 31,
+    text: 'Vilket land befinner sig Soroor i?',
+    image: '/30.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
 
   {
+    id: 32,
+    text: 'Bonus rund!! Det finns två persiska rätter på denna bild, vilka är det?',
+    image: '/31.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Grön'
+  },
+
+  {
     id: 31,
-    text: 'Det finns två persiska rätter på denna bild, vilka är det?',
-    image: '/3.jpg',
+    text: 'Vem har gjort tårtan till höger?',
+    image: '/32.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
 
   {
     id: 32,
-    text: 'Vem har gjort tårtan till höger?',
-    image: '/3.jpg',
+    text: 'Hur mycket fyller Debbie i den här bilden?',
+    image: '/33.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   }
