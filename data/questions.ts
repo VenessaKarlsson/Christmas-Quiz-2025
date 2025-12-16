@@ -2,7 +2,7 @@ export const questions = [
   {
     id: 1,
     text: 'Venessa fick vad i huvudet på sin första fotbollsträning?',
-    image: '/1.jpg', // lägg bilden i public/
+    image: '/0.jpg', // lägg bilden i public/
     options: ['Stockholm', 'Göteborg', 'Malmö', 'Uppsala'],
     correctAnswer: 'Stockholm'
   },
@@ -10,7 +10,7 @@ export const questions = [
   {
     id: 2,
     text: 'Vilka fritidsaktiviteter har Dennis gjort?',
-    image: '/2.jpg',
+    image: '/1.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
   },
@@ -18,7 +18,7 @@ export const questions = [
   {
     id: 3,
     text: 'Vilken biofilmpremiär tittade Debbie på här?',
-    image: '/3.jpg',
+    image: '/2.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
@@ -34,7 +34,7 @@ export const questions = [
   {
     id: 5,
     text: 'I vilken stad bodde Nicklas i i några år',
-    image: '/3.jpg',
+    image: '/4.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
@@ -42,7 +42,7 @@ export const questions = [
   {
     id: 6,
     text: 'Vad heter skolan Mikael jobbar på?',
-    image: '/3.jpg',
+    image: '/5.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
@@ -50,7 +50,7 @@ export const questions = [
   {
     id: 7,
     text: 'Vilken bilmodell kör Nicklas?',
-    image: '/3.jpg',
+    image: '/6.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
   },
@@ -58,7 +58,7 @@ export const questions = [
   {
     id: 8,
     text: 'Vems favoritgodis är detta?',
-    image: '/3.jpg',
+    image: '/7.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
@@ -66,7 +66,7 @@ export const questions = [
   {
     id: 9,
     text: 'Vilka fritidsaktiviteter gjorde Venessa?',
-    image: '/3.jpg',
+    image: '/8.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Röd'
   },
@@ -74,7 +74,7 @@ export const questions = [
   {
     id: 10,
     text: 'Vad heter företaget Sorror jobbar på?',
-    image: '/3.jpg',
+    image: '/9.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
   },
@@ -82,7 +82,7 @@ export const questions = [
   {
     id: 11,
     text: 'Vad heter utbildningen som Nafisa läser?',
-    image: '/3.jpg',
+    image: '/10.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Gul'
   },
@@ -90,7 +90,7 @@ export const questions = [
   {
     id: 12,
     text: 'Hur mycket pengar spenderar Nicklas på monster varje år?',
-    image: '/3.jpg',
+    image: '/11.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Grön'
   },
@@ -98,7 +98,7 @@ export const questions = [
   {
     id: 13,
     text: 'Venessa lånade Dennis ________ och ramlade. Vad lånade hon? ',
-    image: '/3.jpg',
+    image: '/12.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Blå'
   },
@@ -237,5 +237,29 @@ export const questions = [
     image: '/3.jpg',
     options: ['Blå', 'Grön', 'Röd', 'Gul'],
     correctAnswer: 'Gul'
+  },
+
+  {
+    id: 30,
+    text: 'Vart är vi?',
+    image: '/3.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Röd'
+  },
+
+  {
+    id: 31,
+    text: 'Det finns två persiska rätter på denna bild, vilka är det?',
+    image: '/3.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Grön'
+  },
+
+  {
+    id: 32,
+    text: 'Vem har gjort tårtan till höger?',
+    image: '/3.jpg',
+    options: ['Blå', 'Grön', 'Röd', 'Gul'],
+    correctAnswer: 'Grön'
   }
 ]
